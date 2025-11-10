@@ -1,0 +1,625 @@
+﻿l_english:
+ ALB_YugWar1: "Yugoslavian Aggression"
+ ALB_YugWar1_desc: "Yugoslavia has long been a thorn in our side, obstructing our rightful claims and ambitions in the Balkans. Their recent provocations cannot be ignored any longer. It is time to take decisive action and assert our dominance in the region." 
+ ALB_preserve_greater_romania: "Preserve Greater Albania"
+ ALB_white_squadron_focus: "White Squadron"
+ ALB_preserve_greater_romania_desc: "We have finally succeeded in uniting all Albanian-speaking peoples under one state. Now we must ensure that our children inherit a united Albania for all Albanians."
+ ALB_a_deal_with_the_devil: "Deal with the Devil"
+ ALB_a_deal_with_the_devil_desc: "[SOU.GetNameDefCap] threatens us from the east; territorial claims may soon follow. Perhaps it is wiser to join the [SOU.GetAdjective] state rather than fight against it."
+ ALB_form_peasant_militias: "Form Peasant Militias"
+ ALB_form_peasant_militias_desc: "Communist ideals borrowed from our eastern neighbors claim that every citizen’s duty is to stand guard for their comrades, homeland, and the revolution."
+ ALB_basing_rights_for_soviet_union: "Grant Bases to [SOU.GetName]"
+ ALB_basing_rights_for_soviet_union_desc: "We know the [SOU.GetAdjective] power has its eyes on our territory. Perhaps we can avoid confrontation by offering them to station their troops on our soil."
+ ALB_romanian_volunteer_brigades: "Albanian Volunteer Brigades"
+ ALB_romanian_volunteer_brigades_desc: "We will organize volunteer brigades to support revolutionary movements in other countries."
+ ALB_join_comintern: "Join the Comintern"
+ ALB_join_comintern_desc: "It is time to apply for membership in the Comintern. This will protect us from eastern territorial claims and allow us to fight more actively for global communism."
+ ALB_trade_treaty_with_germany: "Trade Treaty with Germany"
+ ALB_trade_treaty_with_germany_desc: "We are aware of Germany’s economic interests. A trade deal involving goods and oil will help us modernize our armed forces."
+ ALB_german_romanian_oil_exploitation_company: "German-Albanian Oil Company"
+ ALB_german_romanian_oil_exploitation_company_desc: "Germany’s need for vast amounts of oil presents us with a tempting opportunity to develop our refining industry at their expense."
+ ALB_invite_german_advisors: "Invite German Advisors"
+ ALB_invite_german_advisors_desc: "The modernization of our armed forces will be much more effective if we rely on German expertise. We should request German advisors to assist us."
+ ALB_invite_german_advisors_tt: "Allows Germany to station its troops in Albania.\n"
+ ALB_license_german_equipment: "License German Equipment"
+ ALB_license_german_equipment_desc: "German weapons greatly surpass ours. Perhaps we could purchase licenses to produce this modern equipment domestically."
+ ALB_join_axis: "Join the Axis"
+ ALB_join_axis_desc: "The time has come to join the Axis and begin the struggle for a bright common future of Albania and Germany."
+ ALB_demand_transnistria: "Demand Transnistria"
+ ALB_demand_transnistria_desc: "Having gained strength and influence — and with Germany’s backing — we can now assert our claim to Transnistria and make it part of Greater Albania."
+ ALB_renew_the_romanian_polish_alliance: "Polish-Albanian Pact"
+ ALB_renew_the_romanian_polish_alliance_desc: "Our relations with Poland have cooled lately. Yet the threats surrounding us remain, and global tensions are rising — it is time to renew our alliance with our northern neighbor."
+ ALB_the_cordon_sanitaire: "Cordon Sanitaire"
+ ALB_the_cordon_sanitaire_desc: "Hostile ideologies approach from both east and west. By uniting with our northern and southern neighbors, we can form a barrier preventing their spread."
+ ALB_demand_a_western_guarantee: "Request Western Guarantees"
+ ALB_demand_a_western_guarantee_desc: "To withstand the simultaneous advance of communism and fascism, we will need support from Western powers. We must use all our political influence to secure such guarantees."
+ ALB_military_modernization: "Military Modernization"
+ ALB_military_modernization_desc: "Even with Western support, we must ensure the modernization of our army — otherwise, we risk defeat before our allies can intervene."
+ ALB_join_allies: "Join the Allies"
+ ALB_join_allies_desc: "Guarantees are not enough — it’s time to declare our readiness to join the democratic powers of the West in defense of freedom."
+ ALB_joint_allied_staff_college: "Joint Allied Staff College"
+ ALB_joint_allied_staff_college_desc: "Given our shared interests, cooperation with Western powers in developing military equipment and tactics is only logical."
+ ALB_civil_works: "Civil Works"
+ ALB_civil_works_desc: "Greater Albania requires a massive industrial development program to strengthen its armed forces. We must begin immediately."
+ ALB_national_defense_industry: "Defense Industry"
+ ALB_national_defense_industry_desc: "We must expand our national military industry to meet the growing demands of our armed forces."
+ ALB_agrarian_reform: "Agrarian Reform"
+ ALB_agrarian_reform_desc: "Our agricultural sector holds great potential. Increasing efficiency will free up labor we can redirect to construction and military production."
+ ALB_danubian_transport_network: "Danubian Transport Network"
+ ALB_danubian_transport_network_desc: "We can greatly improve the capacity of our Danubian transport routes by integrating river transport with road and rail networks."
+ ALB_malaxa: "“Malaxa”"
+ ALB_malaxa_desc: "We must develop our domestic automobile industry to ensure it can be used for military purposes if needed. One of our industrial magnates has some promising ideas..."
+ ALB_invite_foreign_motor_companies: "Invite Foreign Car Manufacturers"
+ ALB_invite_foreign_motor_companies_desc: "Instead of wasting resources on untested domestic designs, it would be wiser to license and produce proven foreign models."
+ ALB_hunedoara_steel_works: "Hunedoara Steel Works"
+ ALB_hunedoara_steel_works_desc: "To meet our military industry’s needs, we must modernize and expand the steelworks in Transylvania."
+ ALB_invest_in_the_iar: "Subsidize IAR"
+ ALB_invest_in_the_iar_desc: "Our Air Force must meet modern standards. Our industry must be capable of producing the latest models quickly enough to replace combat losses."
+ ALB_expand_ploiesti_oil_production: "Expand Ploiești Oil Production"
+ ALB_expand_ploiesti_oil_production_desc: "The Ploiești oil fields are among the largest in Europe — vital not only to us, but also to our allies. We must expand production to meet growing demand."
+ ALB_expand_the_university_of_bucharest: "University of Bucharest"
+ ALB_expand_the_university_of_bucharest_desc: "By improving education quality and capacity, we will nurture new talents to drive our technological progress."
+ ALB_exploit_the_baita_mines: "Exploit the Băița Mines"
+ ALB_exploit_the_baita_mines_desc: "Uranium is proving to be a revolutionary material in weapons development. Luckily, our land holds rich deposits — we should begin extraction immediately."
+ ALB_balkans_dominance: "Balkan Dominance"
+ ALB_balkans_dominance_desc: "Albania’s future lies neither with the revolutionaries of the East nor with the democracies and fascists of the West. True prosperity depends on dominance over the Balkans."
+ ALB_puppet_bulgaria: "Puppet Bulgaria"
+ ALB_puppet_bulgaria_desc: "Militant Bulgaria has long troubled its neighbors. We must put an end to this threat once and for all."
+ ALB_align_hungary: "Align Hungary"
+ ALB_align_hungary_desc: "We must ensure Hungary adopts our perspective. Its current government leads the country to ruin — cooperation is in everyone’s best interest."
+ ALB_HUN_aligned: "Hungary Provides Support"
+ ALB_secure_greece: "Secure Greece"
+ ALB_secure_greece_desc: "Greece, once our ally, must now acknowledge Albania’s leadership in the Balkans."
+ ALB_divide_yugoslavia: "Restructure Yugoslavia"
+ ALB_divide_yugoslavia_desc: "The current division of Yugoslavia into separate states is inefficient. We will demand its restructuring under Albanian leadership."
+ ALB_split_czechoslovakia: "Split Czechoslovakia"
+ ALB_split_czechoslovakia_desc: "Czechoslovakia is an artificial creation that cannot survive on its own. We will intervene before chaos takes hold."
+ ALB_secure_the_bosporus: "Secure the Bosporus"
+ ALB_secure_the_bosporus_desc: "Our access to the seas is limited by the Black Sea. In case of war, Turkey could block our passage through the Bosporus. We must secure this access if needed."
+ ALB_institute_royal_dictatorship: "Royal Dictatorship"
+ ALB_institute_royal_dictatorship_desc: "It’s time to expand the King’s already vast powers to strengthen political stability, allowing us to focus on external threats."
+ ALB_fortify_the_borders: "Fortify the Borders"
+ ALB_fortify_the_borders_desc: "Having restored order domestically, we must now focus on defending our borders from external danger."
+ ALB_flexible_foreign_policy: "Flexible Foreign Policy"
+ ALB_flexible_foreign_policy_desc: "We must abandon rigid principles and build relations where it is most practical. Our survival depends on it."
+ ALB_his_majestys_loyal_government: "His Majesty’s Loyal Government"
+ ALB_his_majestys_loyal_government_desc: "The nation’s prosperity rests on the people’s loyalty to their King. Pragmatic diplomacy matters little beside that."
+ ALB_militarize_the_sentinels: "Militarize the 'Sentinels'"
+ ALB_militarize_the_sentinels_desc: "The paramilitary 'Sentinels' organization can easily be turned into a proper military force if given sufficient resources."
+ ALB_all_parties_must_end: "No More Parties"
+ ALB_all_parties_must_end_desc: "The geopolitical situation requires our King’s undivided attention. He can resume his lavish festivities after the war is won."
+ ALB_revise_the_constitution: "Revise the Constitution"
+ ALB_carol_current_leader_trigger: "§YKing Carol II§! is the current head of state."
+ ALB_carol_not_leader_trigger: "§YKing Carol II§! is not the current head of state."
+ ALB_revise_the_constitution_desc: "We must rewrite the constitution to strengthen the King’s authority. To counter far-right movements, we may also introduce a safer youth alternative — the 'Sentinels of the Homeland.'"
+ ALB_the_royal_foundation: "The Royal Foundation"
+ ALB_the_royal_foundation_desc: "The King has graciously agreed to establish an institute in his name to promote Albanian culture and scientific progress."
+ ALB_appoint_soviet_friendly_government: "Pro-Soviet Government"
+ ALB_appoint_soviet_friendly_government_desc: "Albania’s future depends on warm relations with our communist neighbor. We must appoint a cabinet that understands this reality."
+ ALB_securitate: "Securitate"
+ ALB_securitate_desc: "We must establish a secret police organization to deal with internal threats."
+ ALB_appoint_german_friendly_government: "Pro-German Government"
+ ALB_appoint_german_friendly_government_desc: "Albania’s future depends on good relations with the rising fascist powers of the West. We must appoint a cabinet that acknowledges this."
+ ALB_appoint_german_friendly_government_tooltip: "Removes §YConstitutional Guarantees§!, §Y$ALB_national_christian_party_in_power$§!, and §YSecuritate§!\n"
+ ALB_appoint_allied_friendly_government_tooltip: "Removes §Y'Iron Guard'§!, §Y$ALB_national_christian_party_in_power$§!, and §YSecuritate§!\n"
+ ALB_appoint_soviet_friendly_government_tooltip: "Removes §YConstitutional Guarantees§!, §Y$ALB_national_christian_party_in_power$§!, and §Y'Iron Guard'§!\n"
+ ALB_appoint_german_friendly_government_tooltip_ncp: "Removes §YConstitutional Guarantees§!, §Y'Iron Guard'§!, and §YSecuritate§!\n"
+ ALB_iron_guard: "Iron Guard"
+ ALB_iron_guard_desc: "It’s time to reconsider our stance on the Iron Guard. The movement now aligns more closely with our goals and can serve as a useful tool for political stability."
+ ALB_force_abdication: "Force Abdication"
+ ALB_force_abdication_desc: "The nation no longer needs King Carol II — his rule brings more harm than good. Despite his current control over the government and treasury, he must abdicate for Albania’s future."
+ ALB_appoint_allied_friendly_government: "Pro-Allied Government"
+ ALB_appoint_allied_friendly_government_desc: "Albania’s future depends on strong relations with our old Western friends — France and her allies. We must appoint a cabinet that realizes this."
+ ALB_constitutional_guarantees: "Constitutional Guarantees"
+ ALB_constitutional_guarantees_desc: "The King’s amendments to the constitution must be repealed. Furthermore, safeguards must be established to prevent such overreach in the future — or our democracy will become a farce."
+ ALB_handle_the_king: "Handle the King"
+ ALB_handle_the_king_desc: "We must pass legislation restricting the King’s extravagant lifestyle. The state treasury should no longer fund his personal expenses."
+ ALB_king_michaels_coup: "King Michael’s Coup"
+ ALB_king_michaels_coup_desc: "The current regime is leading Albania toward disaster. A firm hand is needed — that of Prince Michael."
+ ALB_expand_the_air_force: "Expand the Air Force"
+ ALB_expand_the_air_force_desc: "Victory in modern warfare is impossible without air superiority. We must strengthen the Albanian Air Force at all costs!"
+ ALB_acquire_licenses: "Acquire Licenses"
+ ALB_acquire_licenses_desc: "In aviation technology, we lag behind other nations. We should consider acquiring licenses to produce cutting-edge aircraft domestically."
+ ALB_air_defense: "Air Defense"
+ ALB_air_defense_desc: "We must protect our skies with powerful AA batteries, reducing our dependence on limited air forces."
+ ALB_heavy_interceptors: "Heavy Interceptors"
+ ALB_heavy_interceptors_desc: "We cannot afford a large air fleet, so each aircraft must be powerful enough to destroy any enemy target."
+ ALB_ground_support: "Ground Support"
+ ALB_ground_support_desc: "Modern warfare relies on combined-arms operations. Our air units must be able to provide effective support to ground troops."
+ ALB_medium_bombers: "Medium Bombers"
+ ALB_medium_bombers_desc: "Gone are the days when soldiers fought without looking up. We must develop tactical bombers to support our troops from above."
+ ALB_cas: "Close Air Support"
+ ALB_cas_desc: "To maximize battlefield efficiency, we need aircraft specifically designed for close air support operations."
+ ALB_acquire_fighters: "Acquire Fighters"
+ ALB_acquire_fighters_desc: "Air superiority is the key to defense — we must increase the number of fighters by any means necessary."
+ ALB_local_development: "Domestic Development"
+ ALB_local_development_desc: "We will focus on our own aviation industry to supply the military with aircraft."
+ ALB_air_superiority: "Air Superiority"
+ ALB_air_superiority_desc: "The ability to control the skies is a decisive factor in warfare. We must prioritize this aspect."
+ ALB_strategic_bomber_force: "Strategic Bomber Force"
+ ALB_strategic_bomber_force_desc: "Destroying enemy industry and infrastructure is vital — a task best accomplished by strategic bombers."
+ ALB_heavy_bombers: "Heavy Bombers"
+ ALB_heavy_bombers_desc: "Strategic bombing requires long-range aircraft with large payloads. We need heavy bombers for the job."
+ ALB_nuclear_bomb_project: "Nuclear Bomb Project"
+ ALB_nuclear_bomb_project_desc: "It will be nearly impossible to defeat our enemies by conventional means. We must focus on developing technologies that bring unmatched destructive power."
+ ALB_iar_80: "IAR 80"
+ ALB_iar_80_desc: "Our engineers have several brilliant ideas for a new fighter plane — all they need is proper funding."
+ ALB_army_maneuvers: "Army Maneuvers"
+ ALB_army_maneuvers_desc: "We must prepare our army for future conflicts. Organizing maneuvers will help us develop new tactics and strategies."
+ ALB_army_war_college: "War College"
+ ALB_army_war_college_desc: "We want the most talented commanders to lead our forces — therefore, we must expand our military academy."
+ ALB_war_college_tt: "A general with §YSkill Level 2§! named §YBarbu Paraianu§! will appear."
+ ALB_the_zb_53: "ZB-53"
+ ALB_the_zb_53_desc: "Modern warfare depends on modern equipment. We must make every effort to modernize our infantry weaponry."
+ ALB_vanatori_de_munte: "Vânători de Munte"
+ ALB_vanatori_de_munte_unit_tt: "\nAdds a §Ymountain infantry§! unit of 9 battalions.\n"
+ ALB_vanatori_de_munte_desc: "The 'Vânători de Munte' — our elite mountain troops — are renowned even beyond our borders. It would be wise to expand their ranks further."
+ ALB_artillery_modernization: "Artillery Modernization"
+ ALB_artillery_modernization_desc: "Infantry without artillery support struggles greatly. Providing modern guns will significantly improve our army’s effectiveness."
+ ALB_modern_at_guns: "Modern Anti-Tank Guns"
+ ALB_modern_at_guns_desc: "We live in the age of tanks — thus, our infantry must have the means to counter these steel beasts."
+ ALB_mountain_artillery: "Mountain Artillery"
+ ALB_mountain_artillery_tech_tt: "Unlocks: §HMountain Gun§!\n§HArtillery\n    Mountains§!: Movement Speed: §G+15%§!\n§HAnti-Tank\n    Mountains§!: Movement Speed: §G+15%§!"
+ ALB_mountain_artillery_desc: "Our mountain infantry units also require artillery support. Therefore, we must adapt existing guns for use in mountainous terrain."
+ ALB_reserve_divisions: "Reserve Divisions"
+ ALB_reserve_divisions_desc: "Albania is not the largest power. To maintain the combat readiness of our army, we must form a sufficient number of reserve divisions."
+ ALB_royal_guards_divisions: "Royal Guard Divisions"
+ ALB_royal_guards_divisions_tt: "Adds a unit consisting of §Y7 infantry§! and §Y2 artillery§! battalions.\n"
+ ALB_royal_guards_divisions_desc: "We must expand the Royal Guard to a size befitting the majesty of our king."
+ ALB_the_armored_division: "Armored Division"
+ ALB_the_armored_division_tt: "Adds two units consisting of §Y[ALB_UnlockedArmor] tank§! and §Ymotorized§! battalions (4 of each type).\n\nWhen the corresponding technology is researched, adds §Yrecon companies§! to the divisions."
+ ALB_the_armored_division_desc: "Tanks are the weapon of the future. We must form modern divisions that utilize the strengths of this new weaponry."
+ ALB_acquire_modern_tanks: "Acquire Modern Tanks"
+ ALB_acquire_modern_tanks_desc: "The development of tanks is progressing rapidly. We must equip our army with the latest models."
+ ALB_mobile_tank_destroyers: "Modern Tank Destroyers"
+ ALB_mobile_tank_destroyers_desc: "We lack the production capacity to surpass our enemies in the number of tanks. However, we can focus on developing weapons that nullify their armored advantage."
+ ALB_the_maresal: "\"Maresal\""
+ ALB_the_maresal_desc: "Our engineers have proposed mounting a 122mm Soviet-style howitzer on an armored chassis. With some refinement, we can create a rather successful combat vehicle design."
+ ALB_expand_the_galati_shipyards: "Expand the Galati Shipyards"
+ ALB_expand_the_galati_shipyards_desc: "We should significantly expand the shipbuilding facilities in Galati in preparation for potential operations in the Black Sea."
+ ALB_coastal_defense_navy: "Coastal Defense Fleet"
+ ALB_coastal_defense_navy_desc: "Given our limited resources, we can only defend our coasts. All efforts should be directed toward this goal."
+ ALB_coastal_defense_ships: "Coastal Defense Ships"
+ ALB_coastal_defense_ships_tech_tt: "Unlocks §HCoastal Defense Ships§!\n§HHeavy Cruisers§!\n    Armor: §G+20%§!\n    Naval Firepower: §G+10%§!\n    Production Cost: §G-10%§!"
+ ALB_coastal_defense_ships_desc: "We will begin developing new ship designs intended for coastal defense."
+ ALB_modern_destroyers: "Modern Destroyers"
+ ALB_modern_destroyers_desc: "Destroyers are the backbone of any fleet, and our navy will be no exception. Our destroyers must meet modern standards."
+ ALB_torpedo_boats: "Torpedo Boats"
+ ALB_torpedo_boats_desc: "The torpedo is the great equalizer in naval warfare. Properly arming our ships with them will allow us to destroy superior enemy forces through surprise and concentrated torpedo strikes."
+ ALB_modern_submarines: "Modern Submarines"
+ ALB_modern_submarines_desc: "Submarine warfare has become a particularly promising field since the advent of torpedo boats. We must learn not only to defend against enemy submarines but also to use them against enemy ships."
+ ALB_black_sea_dominance: "Black Sea Dominance"
+ ALB_black_sea_dominance_desc: "A lack of resources should not prevent us from achieving dominance in the Black Sea. With sufficient political will, Albania can make this bold vision a reality."
+ ALB_capital_ships: "Capital Ships"
+ ALB_capital_ships_desc: "To be recognized as a serious naval power, we must have battleships within our Black Sea fleet."
+ ALB_torpedo_bombers: "Torpedo Bombers"
+ ALB_torpedo_bombers_desc: "We can compensate for the weakness of our navy by employing aircraft in naval battles. To do so, we must develop a new model of aircraft capable of carrying and deploying torpedoes."
+ ALB_expand_the_marine_regiment: "Expand the Marine Corps"
+ ALB_expand_the_marine_regiment_desc: "Dominance in the Black Sea opens new opportunities. We can conduct naval landings, but this will require the creation of new landing craft types and the formation of specialized marine divisions trained for such operations."
+ ALB_Revise: "Rewrite the Nation’s Fate"
+
+ALB_Revise_desc: "The old constitution is nothing but a shadow of the past. Albania stands at a crossroads, and only a deep reform of the state system can pull it out of stagnation. We must revise the outdated laws, purge the system of corrupt officials, and lay the foundation for the rebirth of a strong state — one ruled by those who truly care for its fate."
+
+ALB_Stablity: "Restoration of Order"
+ALB_Stablity_desc: "Years of discord and instability have eroded the people's trust in their government. Discontent grows in the cities, while separatist sentiments strengthen in the mountains. Albania needs a firm hand — leaders capable of restoring order and confidence in the future. Only by regaining stability can we begin our path toward prosperity and unity."
+
+ALB_MilitaryCheck: "Military Audit"
+ALB_MilitaryCheck_desc: "Our army hasn’t seen a real war in years. The weapons are outdated, discipline is lax, and the commanders have lost their fighting spirit. But the coming storms demand readiness. We will conduct a full audit of the armed forces — from depots to headquarters — to identify weaknesses and restore the army’s combat effectiveness. Only a strong army can defend Albania’s independence."
+
+ALB_Politics: "Political Restructuring"
+ALB_Politics_desc: "Albania stands on the brink between the old and the new world. The old political elites cannot adapt, and the new forces are only beginning to rise. We will restructure our political course — open space for debate, and create conditions for parties and ideologies to form. Let the people decide who is worthy to lead the country forward."
+
+ALB_Naz: "Nationalist Revival"
+ALB_Naz_desc: "After years of humiliation and division, the flame of national pride burns once more in the hearts of our people. Fascist leaders promise strength, order, and the rebirth of Albania as a power capable of dictating terms to its neighbors. Greatness demands sacrifice — and the people are ready to follow those who can give them confidence and power."
+
+ALB_NazProp: "Propaganda Machine"
+ALB_NazProp_desc: "Newspapers, posters, radio, and slogans — all serve one purpose: to unite the nation under the banner of strength and discipline. We will create a propaganda machine that instills belief in the ideals of national revival. History will be rewritten, heroes exalted, and weakness branded as treason."
+
+ALB_NazPer: "March on Tirana"
+ALB_NazPer_desc: "Political slogans give way to the sound of marching boots. The fascist party, inspired by national ideals, rallies the people to rise. Columns of supporters flood the streets of Tirana, demanding decisive change. The old government collapses under the pressure of iron will. A new era dawns — an era of power and order."
+
+ALB_Dem: "Party of Freedom and Progress"
+ALB_Dem_desc: "In the shadow of chaos and dictatorship, a new force is born — one that stands for liberty, equality, and justice. Its leaders envision Albania as a free democratic republic, where every citizen has a voice and power is limited by law. In their hands lies the chance to transform the nation peacefully, through reason and the will of the people."
+
+ALB_DemProp: "Voice of Freedom"
+ALB_DemProp_desc: "Newspapers, radio broadcasts, and public rallies spread a message of hope. People begin to believe that change is possible without bloodshed. The 'Voice of Freedom' echoes throughout the land, inspiring the fight against corruption and for a society where human rights stand above ambition. The democratic movement becomes a symbol of a new era."
+
+ALB_DemPer: "The People's Choice"
+ALB_DemPer_desc: "Amidst the sound of bells and rallying crowds, the people make their choice. For the first time in years, Albania’s fate is decided not by conspiracies, but by its citizens. The democrats triumph, and Albania steps into a new era — one of law, reform, and openness to the world. The path will be difficult, but it leads to true freedom."
+
+ALB_Com: "Revolutionary Committee"
+ALB_Com_desc: "While the elites quarrel over power, workers and peasants raise their banners. The Revolutionary Committee unites those who are tired of living in poverty and humiliation. Under red flags, the slogans of equality and justice ring out. The old system must fall so that a new state — the people's state — can be born."
+
+ALB_ComProp: "Red Wave"
+ALB_ComProp_desc: "Leaflets spread through factories and villages; rallies gather thousands. The 'Red Wave' rises higher, washing away the remnants of the old world. Revolutionary ideals seize the minds of the people, and the call for freedom from oppression becomes the cry of a generation. Power begins to tremble, sensing that the storm is near."
+
+ALB_ComPer: "Birth of the People's Republic"
+ALB_ComPer_desc: "The flame of revolution engulfs the nation. The old order lies in ruins, and from its ashes rises a new state — the People’s Republic of Albania. Workers and peasants, now masters of their destiny, begin to build a future free from exploitation. The road will be hard, but faith in equality and the power of the people lights the way forward."
+
+ALB_NazTeamOwn: "Lone Wolf"
+ALB_NazTeamOwn_desc: "The chosen path demands courage and resolve. The leader and his loyal followers act independently, forming their own forces capable of standing alone without foreign alliances. Only through self-reliance can true power — and the nation’s strength — be proven."
+
+ALB_NazTeam: "Join the Axis"
+ALB_NazTeam_desc: "Albania is ready to stand shoulder to shoulder with powerful allies. Joining the Axis opens new opportunities for strength and influence but demands sacrifice and absolute loyalty. Our nation must be ready for the trials to come."
+
+ALB_GraniceCheck: "Reevaluate the Borders"
+ALB_GraniceCheck_desc: "The country's borders are outdated, leaving our people divided and vulnerable. We must reassess our strategic positions, fortify our fronts, and ensure the protection of key territories. Only confidence in our borders can bring true security and strength."
+
+ALB_Debar: "Claim Debar"
+ALB_Debar_desc: "The Debar region rightfully belongs to our people, and the time has come to reclaim it. Through diplomatic demands or a show of force, we will prove that injustice will not go unanswered."
+
+ALB_Kossovo: "Claim Kosovo"
+ALB_Kossovo_desc: "Kosovo is a symbol of our history and identity. We cannot remain silent while the land of our ancestors lies under foreign rule. It is time to assert our rights and bring this territory home."
+
+ALB_Cherno: "Operation 'Montenegrin Wedge'"
+ALB_Cherno_desc: "A carefully planned operation aims to seize key strategic positions in Montenegro. Our columns advance swiftly to pierce the enemy’s defenses, demonstrate our strength, and ensure rapid success on the southern front."
+
+ALB_Empire: "The Albanian Empire"
+ALB_Empire_desc: "The Albanian people stand at the dawn of a great rebirth. United under a single authority, the nation becomes a strong and influential power. We are building an empire where order, strength, and national pride reign supreme."
+
+ALB_DemTeam: "Join the Allies"
+ALB_DemTeam_desc: "The free nations extend their hand, and Albania is ready to unite its forces with the Allies. Together we will secure our position on the world stage and defend democratic values against external threats."
+
+ALB_DemTeamOwn: "Balkan Union"
+ALB_DemTeamOwn_desc: "The Balkan Union is an alliance of nations seeking peace and stability. Albania takes responsibility to lead and protect the Union, ensuring prosperity and security for all its members."
+
+ALB_Conf: "Balkan Conference"
+ALB_Conf_desc: "A gathering of regional leaders creates a platform for aligning interests and shaping joint strategies. Through dialogue, alliances, and treaties, Albania will strengthen its influence and regional stability."
+
+ALB_Dimplomat: "Send Diplomats"
+ALB_Dimplomat_desc: "Diplomacy is a weapon as powerful as any army. Our envoys will negotiate, form agreements, and secure support, allowing Albania to achieve its goals without unnecessary bloodshed."
+
+ALB_InvGRE: "Invite Greece"
+ALB_InvGRE_desc: "Greece can be either our ally or our rival. Extending an invitation for cooperation opens the way for joint action, diplomatic pressure, and stronger influence in the south."
+
+ALB_InvYUG: "Invite Yugoslavia"
+ALB_InvYUG_desc: "Yugoslavia plays a key role in Balkan affairs. We propose to join forces with our northern neighbor to secure the region and strengthen Albania’s influence."
+
+ALB_InvBUL: "Invite Bulgaria"
+ALB_InvBUL_desc: "Bulgaria is a crucial partner on the eastern flank. Through alliance talks, Albania seeks to form a coalition capable of deterring external threats and advancing common interests."
+
+ALB_Together: "Together — We Are Strong!"
+ALB_Together_desc: "When allies unite, no power can stand against them. Albania and its partners act as one, creating a force strong enough to defend their interests and achieve strategic victory."
+
+ALB_RomaniaAttack: "Seize Romanian Oil"
+ALB_RomaniaAttack_desc: "Romania holds resources vital to our industry and army. Taking control of their oil will ensure our energy independence and give Albania the means to wage war with confidence."
+
+ALB_AntiNazi: "Drive Out the Fascist Scourge!"
+ALB_AntiNazi_desc: "The fascist menace threatens the very heart of the region. Albania stands firm against the ideology of tyranny and violence, defending the freedom of its people by any means necessary."
+
+ALB_Trade: "Open Trade"
+ALB_Trade_desc: "Trade is the key to economic growth. New partnerships will bring prosperity, technological exchange, and stronger international influence for Albania."
+
+ALB_Invest: "Invite Western Scientists"
+ALB_Invest_desc: "Attracting scientists and experts from the West will open the path to progress. Albania will advance its technology, industry, and education — laying the foundation for a prosperous future."
+
+ALB_Convoy: "Accept British Maritime Dominance"
+ALB_Convoy_desc: "Britain’s naval supremacy cannot be ignored. Cooperation and protection of allied convoys will ensure safe trade and strengthen Albania’s maritime position."
+
+ALB_ReadyForWar: "Prepare for War"
+ALB_ReadyForWar_desc: "The future demands decisive action. Preparing for war means not only rearming but organizing our forces and preparing the people for the trials ahead."
+
+ALB_ComTeam: "Listen to Moscow"
+ALB_ComTeam_desc: "Soviet Moscow stands as a beacon for revolutionary movements worldwide. Under its guidance, Albania can gain political, economic, and military support — though at the cost of its independence."
+
+ALB_ComTeamOwn: "Balkan Commune"
+ALB_ComTeamOwn_desc: "Inspired by ideals of equality and brotherhood, Albania takes the lead in uniting its neighbors into a socialist federation. The Balkan Commune will stand as an example of a world without masters or borders."
+
+ALB_ComProm: "Industry of Moscow"
+ALB_ComProm_desc: "Soviet engineers and specialists arrive, bringing their knowledge and experience. Albanian factories and plants come to life under the red banner of progress, transforming the nation into an industrial power."
+
+ALB_ComSpy: "Deploy Soviet Agents"
+ALB_ComSpy_desc: "Under the cover of diplomacy, Soviet operatives arrive. Their mission: to observe, influence, and strengthen internal security — though their presence makes Albania dependent on Moscow’s will."
+
+ALB_CloseTrades: "Close the Borders"
+ALB_CloseTrades_desc: "The world is full of enemies and spies hiding as merchants. Albania closes its ports and limits imports and exports, focusing on self-sufficiency and true independence."
+
+ALB_Debar2: "Reassert the Debar Claim"
+ALB_Debar2_desc: "The question of Debar remains unresolved. We once again assert our rightful claim — through diplomatic pressure and a show of strength, if needed."
+
+ALB_GreUlt: "Demand Epirus"
+ALB_GreUlt_desc: "Epirus — the land of our ancestors — was taken unjustly. Albania issues Greece an ultimatum: return the territory, or face the consequences. A step toward war — or a step toward national pride."
+
+ALB_ComEmpire: "Red Albania"
+ALB_ComEmpire_desc: "From the ashes of the old world rises a new Albania — red, unshakable, and ready to spread the ideals of revolution. United under the banner of justice and equality, we shall become the beacon of socialism in the Balkans."
+
+ALB_Royality: "Eternal Neutrality"
+ALB_Royality_desc: "As the world plunges into chaos, Albania takes another path. We will not become pawns in others’ games. Eternal neutrality will shield the nation while it strengthens itself in peace."
+
+ALB_Friends: "Negotiate with the Army"
+ALB_Friends_desc: "The army is the pillar of any government. Without its loyalty, stability cannot be maintained. We will strengthen our ties with the generals and ensure discipline and unity."
+
+ALB_FinalCheck: "Army Reform"
+ALB_FinalCheck_desc: "After the military audit, the time for real reform has come. New structures, modern weapons, and restored morale will make the army the pride of Albania and the defender of its independence."
+
+ALB_YugProxod: "Request Passage from Yugoslavia"
+ALB_YugProxod_desc: "Our military and trade routes are limited, but diplomacy opens new paths. We will ask Yugoslavia for passage — a step toward cooperation or confrontation, depending on how our request is received."
+
+ALB_Insta: "Albanian Institute"
+ALB_Insta_desc: "A nation that strives for progress must have its own research centers. We will establish the Albanian Institute — a hub for innovation, industry, and defense technologies."
+
+ALB_Fly: "Study Aviation"
+ALB_Fly_desc: "The future of warfare lies in the skies. Our engineers and pilots will begin mastering aviation to create an air force capable of defending the homeland and striking from above."
+
+ALB_Rockets: "Study Rocketry"
+ALB_Rockets_desc: "New technologies redefine warfare. Rocket weapons will allow us to strike from afar. We will invest in research to secure Albania’s technological edge."
+
+ALB_Bombs: "Explosives Research"
+ALB_Bombs_desc: "Power comes from knowledge. Albanian scientists will study advanced explosives, strengthening our army’s capabilities and defensive power."
+
+ALB_InviteInvestors: "Invite Western Investors"
+ALB_InviteInvestors_desc: "Albania opens its doors to foreign experts and investors. Joint projects will boost industry, science, and innovation — transforming Albania into a center of progress."
+
+ALB_Prom: "Industrial Development"
+ALB_Prom_desc: "Albania begins a new era of economic growth. Factories and enterprises will become the foundation of national strength and prosperity."
+
+ALB_Resource: "Albanian Resources"
+ALB_Resource_desc: "Our land is rich in resources long left untapped. We must develop mining and agriculture to strengthen our industry and defense."
+
+ALB_Selo: "Exploit Rural Resources"
+ALB_Selo_desc: "Villages will serve as the supply base for industry. Organizing rural production will accelerate economic growth and integrate agriculture into the national economy."
+
+ALB_Liq: "Abolish Cottage Industry"
+ALB_Liq_desc: "Small-scale production is inefficient. We will shut down outdated workshops and redirect resources toward modern industrial centers."
+
+ALB_Roads: "Improve Infrastructure"
+ALB_Roads_desc: "Roads, bridges, and transport networks are the arteries of the nation. Modern infrastructure will ensure mobility, trade, and defense readiness."
+
+ALB_Indo: "Industrialization"
+ALB_Indo_desc: "Albania must transform from an agrarian periphery into an industrial hub. Industrialization is the key to progress, production, and prestige."
+
+ALB_Wars: "Military Industry"
+ALB_Wars_desc: "The strength of the army depends on the economy. Expanding military production will give Albania the power to face any threat."
+
+ALB_Flot: "Albanian Navy"
+ALB_Flot_desc: "A strong navy will safeguard trade and defend our coastlines. Building ships ensures maritime independence and control over our seas."
+
+ALB_Buildings: "‘Indo’ Construction Company"
+ALB_Buildings_desc: "A national construction company will accelerate industrial and military expansion. Firms like ‘Indo’ will drive Albania’s modernization."
+
+ALB_EndProm: "Complete Industrialization"
+ALB_EndProm_desc: "Albania’s industrial revolution nears completion. The nation now stands as a modern, powerful economy ready to shape the Balkans’ future."
+
+ALB_ITADip: "Diplomatic Mission to Italy"
+ALB_ITADip_desc: "We will send a delegation to Rome to discuss the future of Albanian–Italian relations. As Italian influence grows, we must define our stance before it’s too late."
+
+
+ALB_ITADip_tt: "§YOur diplomats will be sent to Italy for negotiations.§!"
+ALB_Ankara_tt: "§YOur diplomats will be sent to Turkey for negotiations.§!"
+ALB_AntiCommunist_tt: "§YThere is a high chance the Queen will take the throne after Zog's departure.§!"
+ALB_Vera: "Faith in Neutrality"
+
+ALB_Old: "Maintain the Old Course"
+
+ALB_Collect: "Collective Spirit"
+
+ALB_Mer: "Agreement with the Mayors"
+
+ALB_AntiCommunist: "Ban Communism"
+
+ALB_Monarch: "Monarchist Sentiments"
+
+ALB_Vera2: "Trust in Italy"
+
+ALB_KillZogu: "Kill King Zog"
+
+ALB_ItaProm: "Italian Industry"
+
+ALB_ItaWarProm: "Italian Military Industry"
+ALB_Pakt_tt: "§YItaly§! promises not to touch Albania... §Ras long as it benefits them.§!"
+ALB_Pakt: "Pact 'Zog - Mussolini'"
+
+ALB_Razorvat: "Break Relations with Italy"
+
+ALB_GetReady: "Preparation for the Inevitable"
+
+ALB_Defense: "Defensive Strategy"
+
+ALB_Nanat: "Call the Best Commanders"
+
+ALB_Expert: "Special Forces"
+
+ALB_WeWillWin: "We Will Win!"
+
+ALB_Vera2_desc: "After reports of possible Albanian annexation, diplomats suggest trusting Italy. This focus symbolizes the attempt to maintain peace and neutrality through diplomacy, hoping for the neighbor’s prudence."
+
+ALB_KillZogu_desc: "An extreme measure to protect the country's independence — eliminating King Zog, who might betray and yield to Italian influence. This focus represents determination to change the political course and prevent external interference at all costs."
+
+ALB_ItaProm_desc: "Italian industry is growing, potentially altering the balance of power in the Balkans. Albania observes the neighbor’s economic rise to prepare for diplomatic and strategic actions."
+
+ALB_ItaWarProm_desc: "Italy’s military industry strengthens, posing a regional threat. Albania must evaluate its strength and devise measures to secure itself from possible aggression."
+
+ALB_Pakt_desc: "The pact between King Zog and Mussolini becomes an important diplomatic move. This focus symbolizes a strategic agreement that could stabilize the region and secure the king’s position."
+
+ALB_Razorvat_desc: "A complete break of relations with Italy demonstrates resolve and readiness for confrontation. Albania strengthens its internal stability and defense to safeguard its independence."
+
+ALB_GetReady_desc: "Preparing for an inevitable conflict requires mobilization and fortification. Albania focuses its resources and strategy on defending its borders."
+
+ALB_Defense_desc: "Developing a defensive strategy and organizing the army ensures the protection of key territories. This focus boosts combat readiness and overall national security."
+
+ALB_Nanat_desc: "Bringing in the best commanders and specialists increases army effectiveness. Albania builds a core of professional forces capable of repelling any threat."
+
+ALB_Expert_desc: "Creating special forces units allows for complex operations and reinforces the country's defense. These elite troops will serve as the backbone in decisive battles."
+
+ALB_WeWillWin_desc: "Boosting morale and unity strengthens faith in victory. Albania is ready for trials ahead and confident it will preserve its independence and freedom."
+
+ALB_Monarch_desc: "Monarchist sentiments grow throughout the country. Many view the king as a symbol of stability and historical continuity. This focus reinforces monarchical influence and prestige."
+
+ALB_AntiCommunist_desc: "The communist threat grows stronger, and Albania must shield itself from radical ideas. This focus represents the government’s determination to ban communist organizations and maintain order."
+
+ALB_Vera_desc: "Faith in neutrality becomes the cornerstone of foreign policy. Albania strives to avoid great power entanglements and maintain independence through diplomacy and caution."
+
+ALB_Old_desc: "The old path remains a guide for part of the political elite. This focus symbolizes preserving traditional policies and ensuring stability and predictability."
+
+ALB_Collect_desc: "The collective spirit unites the people against challenges. This focus boosts morale, encourages cooperation, and strengthens social cohesion."
+
+ALB_Mer_desc: "The agreement with mayors strengthens ties between the central government and local authorities, improving management and public order."
+
+ALB_QueenDen: "Coronation"
+
+ALB_PropagandaQueen: "Propaganda for the Queen"
+
+ALB_Ystav: "New Charter"
+
+ALB_Queen2: "First Lady of Albania"
+
+ALB_QueenPretend: "Territorial Claims"
+
+ALB_QueenGuards: "Royal Guard"
+
+ALB_TwoCrowns: "Two Crowns"
+
+ALB_SosedCapture: "Seize Neighboring Lands"
+
+ALB_BULCapture: "Conquer Bulgaria"
+
+ALB_BULAlly: "Alliance with Bulgaria"
+
+ALB_YugCapture: "Conquer Yugoslavia"
+
+ALB_Plan: "The Queen’s Grand Plan"
+
+ALB_GREBad: "Poor Relations with Greece"
+
+ALB_GrePlan: "Claims on Greece"
+
+ALB_TURAttacks: "Turkish Resources"
+
+ALB_Ankara: "Royal Conference in Ankara"
+
+ALB_FearDeath: "Avenge Turkey"
+
+ALB_QueenFinal: "The Great Queen of Albania"
+
+ALB_QueenDen_desc: "The Queen ascends the throne again, marking the rebirth of the monarchy and a new era of stability. The people look to the future with hope under her wise rule."
+
+ALB_PropagandaQueen_desc: "To strengthen monarchical legitimacy, a large-scale propaganda campaign must glorify the Queen as the nation’s savior and protector."
+
+ALB_Ystav_desc: "The country needs a new charter that solidifies royal authority and reestablishes governmental order. Law and loyalty to the crown will become the foundation of the state."
+
+ALB_Queen2_desc: "The Queen becomes a symbol of feminine strength and national pride — the First Lady of Albania who unites the nation in difficult times."
+
+ALB_QueenPretend_desc: "The monarchy must reclaim what is rightfully theirs. Albania will declare historical claims on lands once under its influence."
+
+ALB_QueenGuards_desc: "The Royal Guard is an elite unit loyal to the crown to their last breath. Their presence will strengthen internal security and the prestige of the army."
+
+ALB_TwoCrowns_desc: "The Union of Two Crowns — an ambitious idea to unite Albania and a neighboring kingdom under one rule. A step toward building a grand Balkan monarchy."
+
+ALB_SosedCapture_desc: "Neighboring countries are weak and divided. It’s time to expand Albania’s borders for the glory of the Queen and the future of our people."
+
+ALB_BULCapture_desc: "Bulgaria presents a strategic interest for our crown. Conquering it ensures control over the Balkans and strengthens our forces."
+
+ALB_BULAlly_desc: "Instead of war, we may forge an alliance with Bulgaria — monarchies must support each other against external threats and revolutionaries."
+
+ALB_YugCapture_desc: "Yugoslavia crumbles under its contradictions. Albania will seize the moment to assert dominance over the western Balkans."
+
+ALB_Plan_desc: "The Queen’s grand vision — unite the Balkans under the Albanian crown and transform the country into the heart of a new order."
+
+ALB_GREBad_desc: "Greece refuses to acknowledge Albanian interests and acts hostile. Relations deteriorate, and tension rises."
+
+ALB_GrePlan_desc: "We will present Greece with historical claims. Albania demands the return of territories where our ancestors lived for centuries."
+
+ALB_TURAttacks_desc: "Turkey controls valuable resources our kingdom needs. It’s time to turn our attention eastward."
+
+ALB_Ankara_desc: "The Queen initiates a royal conference in Ankara to decide the fate of the region. Behind polite words lie far-reaching ambitions."
+
+ALB_FearDeath_desc: "Turkey must pay for its arrogance. Albania will strike back to avenge its fallen and restore its honor."
+
+ALB_QueenFinal_desc: "The Queen has proven Albania’s greatness. Her name will be written in gold as the founder of a new Balkan Empire."
+
+ALB_Regen: "Regency Council"
+ALB_Kabinet: "Formation of the Cabinet"
+ALB_Italian: "Italian King"
+ALB_Aggresion: "Albanian Aggression"
+ALB_NewWay: "A New Path for Albania"
+ALB_OurWorld: "Our World"
+ALB_AllyW: "Mediterranean Union"
+ALB_FIghtWith: "Struggle for Dominance"
+ALB_WorldCompany: "World Company"
+ALB_AllTheRoads: "All Roads Lead to Albania"
+ALB_WeAll: "Unite the Nation"
+ALB_FinalDay: "The Great Day of Albania"
+ALB_Strongest: "Fourth Rome"
+ALB_Start: "World Conference"
+ALB_InvSPA: "Invite Spain"
+ALB_InvFRA: "Invite France"
+ALB_InvYUG2: "Invite Yugoslavia"
+ALB_InvGRE2: "Invite Greece"
+ALB_InvITA: "Invite Italy"
+ALB_Sredezemno: "The Strongest Alliance"
+
+ALB_Regen_desc: "After the monarch’s disappearance, the nation cannot remain without leadership. The temporary Regency Council will govern to maintain stability and prepare Albania for a new era."
+
+ALB_Kabinet_desc: "We will form a new cabinet of loyal and capable ministers ready to lead the nation through difficult times. It’s time to reform the government and unify its direction."
+
+ALB_Italian_desc: "The Italian monarchy shows interest in our nation. Perhaps the King of Italy or his representative could take the Albanian throne — ensuring order and protection, albeit at the cost of independence."
+
+ALB_Aggresion_desc: "Our neighbors underestimate us. Albania will no longer tolerate pressure or disregard. We are ready to show aggression for our safety and pride."
+
+ALB_NewWay_desc: "The old way led us to decline and humiliation. Now Albania follows a new course — independence, strength, and ambition."
+
+ALB_OurWorld_desc: "We no longer seek a place in others’ world — we will create our own. Albania will shape the future of the Balkans."
+
+ALB_AllyW_desc: "The Mediterranean has always been the cradle of civilization. We propose a new union — a Mediterranean Alliance, a bastion of stability and strength."
+
+ALB_FIghtWith_desc: "Diplomacy has failed. To prove our right to rule, Albania must fight. We will defeat anyone who stands in our way."
+
+ALB_WorldCompany_desc: "We will build an international alliance under our control — to dominate global markets, resources, and politics. Albania will become the heart of a new world order."
+
+ALB_AllTheRoads_desc: "As all roads once led to Rome, now they will lead to Albania — the new heart of Europe and center of trade, diplomacy, and power."
+
+ALB_WeAll_desc: "Division is our greatest enemy. It’s time to unite the nation under one banner, one idea, and one leader."
+
+ALB_FinalDay_desc: "The Great Day of Albania has come. All our efforts have borne fruit — the people celebrate, the enemies tremble, and history remembers."
+
+ALB_Strongest_desc: "Albania rises as the Fourth Rome — heir to empires past and guardian of ancient glory. Nations will bow before our might."
+
+ALB_Start_desc: "We call a World Conference to announce our ambitions and secure Albania’s place among global powers."
+
+ALB_InvSPA_desc: "Spain is a strong and proud nation. We will invite her into our alliance to strengthen influence in the western Mediterranean."
+
+ALB_InvFRA_desc: "France can become an essential ally in our alliance. We offer her a place among the leaders of the new Mediterranean bloc."
+
+ALB_InvYug2_desc: "Yugoslavia holds the key to Balkan stability. Uniting with her will ensure regional control and military strength."
+
+ALB_InvGRE2_desc: "Greece controls vital sea routes. We will invite her to join our alliance and dominate the Aegean."
+
+ALB_InvITA_desc: "Italy is our natural ally in the struggle for Mediterranean dominance. Together, we will forge a new order."
+
+ALB_Sredezemno_desc: "The Mediterranean Union will stand as the bastion of civilization and power, under our leadership — the heart of global politics."
+
+ALB_Please: "Convince Victor Emmanuel III"
+ALB_Please_desc: "After the storms of Europe, Albania’s fate hangs by a thread. King Victor Emmanuel III is a man of pride and ambition — if we appeal to his sense of duty and shared Latin brotherhood, he may support us."
+
+ALB_Hello: "Long Live the King!"
+ALB_Hello_desc: "Our efforts succeeded! Victor Emmanuel III accepts us as allies. The people cheer his name as the tricolors rise above Tirana — a new dawn for Albania!"
+
+ALB_ItaAlly: "Italian Alliance"
+ALB_ItaAlly_desc: "The alliance with Italy is more than diplomacy — it’s a bridge between the Adriatic and the Mediterranean. Yet every alliance has a price."
+
+ALB_ItaWar: "War with Italy"
+ALB_ItaWar_desc: "When diplomacy fails, steel speaks. Italy betrayed us — now we must fight for honor and survival."
+
+ALB_Soldiers: "Soldiers of Victor Emmanuel III"
+ALB_Soldiers_desc: "Under Victor Emmanuel’s banner, brave Albanians and Italians unite. Loyal to the crown, they fight chaos with discipline and faith."
+
+ALB_ItaBads: "Partisans in Italy"
+ALB_ItaBads_desc: "Rebels rise within Italy. We must suppress the unrest and restore royal authority."
+
+ALB_ItaDeath: "Italian Campaign"
+ALB_ItaDeath_desc: "The campaign in Italy will be long and bloody. But Albania will endure and emerge victorious."
+
+ALB_ItaPlease: "Request Apulia"
+ALB_ItaPlease_desc: "Apulia is the key to the Adriatic. We will ask the Italian king to grant it to us as a sign of trust."
+
+ALB_ItaGo: "Eliminate Yugoslavia"
+ALB_ItaGo_desc: "Yugoslavia stands as the last relic of old borders. Together with Italy, we will erase it from the map."
+
+ALB_ItaFinalPlease: "Request Zara"
+ALB_ItaFinalPlease_desc: "Zara — an ancient city long disputed — must return to its rightful owners. We will make our final plea to Victor Emmanuel III."
+
+ALB_WeAreAlbania: "We Are Albania!"
+ALB_WeAreAlbania_desc: "The world shall know Albania is no puppet — a proud nation reborn through struggle."
+
+ALB_Please_tt: "§YUnlocks decisions to attempt convincing King Victor Emmanuel III to accept the Albanian crown.§!"
+ALB_Strongest_tt: "(§YLoire, Catalonia, Savoy§W and §Y50 §Wothers): §WThese regions will become core territories of §YAlbania.§!"

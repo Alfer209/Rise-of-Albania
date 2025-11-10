@@ -1,0 +1,24 @@
+﻿l_english:
+albania.1.t: "Diplomats Report: Italy Prepares for Annexation!"
+albania.1.desc: "Our diplomats in Rome have reported that the Italian government is preparing for the direct annexation of Albania. However, soon something astonishing came to light — King Zog himself had been negotiating with Italian representatives, discussing the possibility of a so-called ‘voluntary incorporation’ of our country into their kingdom! Outrage among officials and the military is growing — how shall we act now?"
+albania.1.a: "A clumsy bluff."
+albania.1.a.tt: "The focus §Y'Trust Italy'§! will be completed instantly."
+albania.1.b: "Assassinate King Zog!"
+albania.1.b.tt: "The focus §Y'Assassinate King Zog'§! will be completed instantly."
+
+albania.2.t: "The Queen’s Coronation"
+albania.2.desc: "Today, a grand ceremony was held to crown the new Queen of Albania. The people cheer with excitement as the country enters a new era of monarchy."
+albania.2.a: "Long live the Queen!"
+albania.2.tt: ""
+
+albania.10.t: "The Queen Has Disappeared!"
+albania.10.desc: "Only a few days after the reduction of the royal guard’s budget, it was reported that the Queen has vanished. The palace is sealed, ministers are in panic, and rumors spread throughout the country — was it a kidnapping... or a staged disappearance?"
+albania.10.a: "What will happen to Albania now?"
+albania.10.a.tt: "A power crisis begins. The monarchy is in danger."
+
+albania.ankara_conference.t: "The Ankara Conference"
+albania.ankara_conference.desc: "After several weeks of tense diplomatic negotiations, we finally reached an agreement with Turkish representatives to meet in Ankara. The main goal was to assess their resources and discuss potential cooperation that could strengthen our country and the region. We arrived on time, fully prepared with all necessary documentation and strategic plans, expecting an honest dialogue. However, as the hours passed, it became clear that the Turkish delegation had no intention of showing up. There were no representatives, no apologies, no notice of postponement. This blatant disregard for our efforts and for the status of our nation was evident. The carefully planned meeting turned into a hollow formality — an empty hall, silence, and a feeling of deep disrespect. Such behavior not only demonstrates contempt for our diplomatic efforts but also suggests that Turkey does not see us as an equal partner. We must respond firmly to show the strength and resolve of our nation."
+albania.ankara_conference.rude: "Insolent fools!"
+albania.ankara_conference.tt: "The focus 'ALB_FearDeath' is completed. We have shown that we will not tolerate disrespect and will act decisively in response to hostile actions from other states."
+
+ALB_Queen_Missing: "The Queen Has Disappeared"

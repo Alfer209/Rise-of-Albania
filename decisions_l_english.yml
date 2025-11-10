@@ -1,0 +1,60 @@
+﻿l_english:
+ALB_city_management: "City Administration"
+ALB_queen_management: "Monarchy Administration"
+ALB_victor: "Persuading the King"
+
+# ───────────────────────────────
+
+# STABILITY AND POPULATION
+
+# ───────────────────────────────
+
+ALB_calmtirana: "Calm Tirana"
+ALB_calmtirana_desc: "The people of Tirana are dissatisfied with our reforms. We will launch a campaign to stabilize the capital."
+
+ALB_hold_shkoder_parade: "Military Parade in Shkodër"
+ALB_hold_shkoder_parade_desc: "We will hold a grand military parade in Shkodër to raise the morale of both the army and the people."
+
+ALB_invest_durres: "Invest in Durrës"
+ALB_invest_durres_desc: "Developing the port and factories in Durrës will strengthen the economy and create new jobs."
+
+ALB_rebuild_shkoder: "Rebuild Shkodër"
+ALB_rebuild_shkoder_desc: "The city of Shkodër is being rebuilt after destruction. Constructing factories will give people hope and stability."
+
+ALB_expand_korce_mines: "Expand Korçë Mines"
+ALB_expand_korce_mines_desc: "The rich aluminum deposits in Korçë can become the foundation of our industry. We will expand mining and refining operations."
+
+ALB_train_youth: "Call the Youth to Military Service"
+ALB_train_youth_desc: "We will create voluntary training camps where young patriots will prepare to defend the homeland."
+
+ALB_fortify_south: "Fortify the Southern Borders"
+ALB_fortify_south_desc: "The south of the country is vulnerable. We will build strong fortifications and defense lines to stop any enemy."
+
+ALB_restore_monuments: "Restore Historical Monuments"
+ALB_restore_monuments_desc: "Symbols of our glory will strengthen national pride and remind the people of our great past."
+
+ALB_GuardsLess: "Reduce the Royal Guard"
+ALB_GuardsLess_desc: "We will reduce the size of the royal guard to cut expenses and redirect resources toward economic development."
+
+ALB_national_radio: "Establish National Radio"
+ALB_national_radio_desc: "The radio will become the voice of the government, uniting the nation and strengthening our ideological line."
+
+ALB_Vittorio_Chain_Name: "Persuade Victor Emmanuel"
+ALB_Vittorio_Chain_Desc: "We are gradually convincing the Italian king to accept the Albanian crown."
+
+ALB_Vittorio_Step1: "Send the First Letter"
+ALB_Vittorio_Step1_Desc: "We will send Victor Emmanuel a polite invitation to negotiations."
+
+ALB_Vittorio_Step2: "Send the Envoys"
+ALB_Vittorio_Step2_Desc: "Our diplomats will arrive in Rome to personally persuade the monarch."
+
+ALB_Vittorio_Step3: "Offer Gifts"
+ALB_Vittorio_Step3_Desc: "We will send lavish gifts as a gesture of respect toward the Italian crown."
+
+ALB_Vittorio_Step4: "Promise an Alliance"
+ALB_Vittorio_Step4_Desc: "We will offer Victor guarantees of cooperation and protection of Italy’s interests."
+
+ALB_Vittorio_Step5: "The Final Letter"
+ALB_Vittorio_Step5_Desc: "Our last chance to convince the king — a solemn letter written on behalf of the Albanian people."
+
+ALB_Vittorio_Ready: "Victor Emmanuel Is Ready to Accept the Crown"
